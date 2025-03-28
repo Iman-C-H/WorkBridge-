@@ -1,2 +1,2 @@
-# WorkBridge-
+# WorkBridge
 Hosting a static Website 
